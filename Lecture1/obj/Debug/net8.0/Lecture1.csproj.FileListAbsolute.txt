@@ -1,0 +1,14 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\bin\Debug\net8.0\Lecture1.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\bin\Debug\net8.0\Lecture1.deps.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\bin\Debug\net8.0\Lecture1.runtimeconfig.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\bin\Debug\net8.0\Lecture1.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\bin\Debug\net8.0\Lecture1.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\Lecture1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\Lecture1.AssemblyInfoInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\Lecture1.AssemblyInfo.cs
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\Lecture1.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\Lecture1.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\refint\Lecture1.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\Lecture1.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\Lecture1.genruntimeconfig.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture1\obj\Debug\net8.0\ref\Lecture1.dll

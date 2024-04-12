@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Comp1551_Demo/1.0.0": {
+        "dependencies": {
+          "Lecture3": "1.0.0"
+        },
+        "runtime": {
+          "Comp1551_Demo.dll": {}
+        }
+      },
+      "Lecture3/1.0.0": {
+        "runtime": {
+          "Lecture3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comp1551_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lecture3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

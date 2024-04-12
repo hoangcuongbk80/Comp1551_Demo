@@ -1,0 +1,14 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\bin\Debug\Database1.mdf
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\bin\Debug\Database1_log.ldf
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\bin\Debug\Lecture10.exe.config
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\bin\Debug\Lecture10.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\bin\Debug\Lecture10.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.csproj.AssemblyReference.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.Form1.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.Properties.Resources.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.csproj.GenerateResource.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.Form2.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Code\Comp1551_Demo\Lecture10\obj\Debug\Lecture10.Form3.resources
